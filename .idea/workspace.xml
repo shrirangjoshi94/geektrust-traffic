@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9a212e5-fcc6-47cc-bfac-7e58e8d0bdb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1YXMY0d1pTa3bCcAveu2Y5hxhRA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classes" />
+      <recent name="$PROJECT_DIR$/classes/vehicles" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9a212e5-fcc6-47cc-bfac-7e58e8d0bdb0" name="Default Changelist" comment="" />
+      <created>1583084531963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583084531963</updated>
+      <workItem from="1583084542975" duration="12536000" />
+      <workItem from="1583097599258" duration="1643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583086060226">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="476" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/65.24.1301.744/1366.0.1366.768@65.24.1301.744" timestamp="1583086060226" />
+    <state x="467" y="197" key="NewPhpClassDialog" timestamp="1583087112896">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="467" y="197" key="NewPhpClassDialog/65.24.1301.744/1366.0.1366.768@65.24.1301.744" timestamp="1583087112896" />
+    <state x="516" y="309" key="NewPhpFileDialog" timestamp="1583091612783">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="516" y="309" key="NewPhpFileDialog/65.24.1301.744/1366.0.1366.768@65.24.1301.744" timestamp="1583091612783" />
+    <state x="209" y="24" key="SettingsEditor" timestamp="1583097570044">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="209" y="24" key="SettingsEditor/65.24.1301.744/1366.0.1366.768@65.24.1301.744" timestamp="1583097570044" />
+    <state x="376" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1583097599352">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="376" y="211" key="com.intellij.ide.util.TipDialog/65.24.1301.744/1366.0.1366.768@65.24.1301.744" timestamp="1583097599352" />
+    <state x="378" y="168" width="672" height="677" key="run.anything.popup" timestamp="1583087407615">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="378" y="168" width="672" height="677" key="run.anything.popup/65.24.1301.744/1366.0.1366.768@65.24.1301.744" timestamp="1583087407615" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583092800288">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/65.24.1301.744/1366.0.1366.768@65.24.1301.744" timestamp="1583092800288" />
+  </component>
+</project>
