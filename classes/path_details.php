@@ -69,7 +69,7 @@ class PathDetails
             }
         }
 
-        echo $fastestVehicle . '     ' .$fastestOrbit;
+        echo $fastestVehicle . ' ' .$fastestOrbit . "\n";
     }
 
     /**
